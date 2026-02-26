@@ -4,7 +4,7 @@ import time
 green = '\033[92m'
 red = '\033[91m'
 
-url = "https://www.walmart.com"
+url = "https://www.nvidia.com/en-us/"
 
 start = time.time()
 
